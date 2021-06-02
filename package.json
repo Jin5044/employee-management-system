@@ -1,0 +1,27 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jin5044/employee-management-system.git"
+  },
+  "author": "Michael Hrivnak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jin5044/employee-management-system/issues"
+  },
+  "homepage": "https://github.com/Jin5044/employee-management-system#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
